@@ -1,0 +1,13 @@
+roll,name,dept,cgpa,status
+f2025376200,Mustafa Haider,CS,3.70,active
+f2025376201,Ayesha Tariq,CS,3.85,active
+f2025376202,Bilal Ahmed,AI,3.20,active
+f2025376203,Zara Malik,AI,3.55,active
+f2024375100,Umar Farooq,CS,2.90,active
+f2024375101,Fatima Nawaz,AI,3.40,active
+f2024375102,Hassan Raza,CS,2.60,active
+f2024375103,Sana Khan,EE,3.10,active
+f2023374050,Ali Abdullah,CS,3.75,active
+f2023374051,Maria Iqbal,AI,2.80,active
+f2023374052,Hamza Sheikh,EE,3.30,active
+f2022373010,Nadia Akhtar,CS,3.60,inactive

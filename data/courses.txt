@@ -1,0 +1,11 @@
+code,title,credits,seats,prereq
+CS101,Programming Fundamentals,3,40,NONE
+CS201,Data Structures,3,35,CS101
+CS301,Algorithms,3,30,CS201
+CS401,Operating Systems,3,30,CS201
+AI201,Intro to Artificial Intelligence,3,35,CS101
+AI301,Machine Learning,3,30,AI201
+MT101,Calculus and Analytical Geometry,3,40,NONE
+EE101,Digital Logic Design,3,35,NONE
+EE201,Microprocessor Systems,3,30,EE101
+DB201,Database Systems,3,35,CS101
